@@ -3,8 +3,8 @@
 function toggleMenu() {
   const menu = document.querySelector('.menu-links');
   const icon = document.querySelector('.hamburger-icon');
-  menu.classList.toggle('ativo');
-  icon.classList.toggle('ativo');
+  menu.classList.toggle('open');
+  icon.classList.toggle('open');
 }
 
 const iconMenu = document.querySelector('.hamburger-icon');
@@ -17,7 +17,7 @@ menuLinks.forEach((link) => {
 
 // botao download do curriculo
 document.getElementById('btn-download').addEventListener('click', function () {
-  window.open('');
+  window.open('/img/curriculo-front-end.pdf');
 });
 
 // botao que leva até os contatos
