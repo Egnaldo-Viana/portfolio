@@ -17,7 +17,7 @@ menuLinks.forEach((link) => {
 
 // botao download do curriculo
 document.getElementById('btn-download').addEventListener('click', function () {
-  window.open('/img/curriculo-front-end.pdf');
+  window.open('/img/curriculo-front-end.pdf', '_blank');
 });
 
 // botao que leva até os contatos
