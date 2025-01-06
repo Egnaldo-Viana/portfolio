@@ -1,5 +1,5 @@
 # Egnaldo Viana - Portfólio
-Este é o meu portfólio pessoal, onde compartilho um pouco sobre minha trajetória como Desenvolvedor Front-End e UX/UI Designer, além de apresentar projetos que desenvolvi ao longo da minha carreira. O portfólio está dividido em seções que mostram minha formação, habilidades e os projetos que estou mais orgulhoso de ter criado.
+Este é o meu portfólio pessoal, onde compartilho sobre minha trajetória como Desenvolvedor Front-End e UX/UI Designer, além de apresentar projetos que desenvolvi ao longo da minha carreira. O portfólio está dividido em seções que mostram minha formação, habilidades e os projetos que estou mais orgulhoso de ter criado.
 
 ### Tecnologias Utilizadas:
 + HTML5: Estruturação semântica do conteúdo e boas práticas de acessibilidade.
