@@ -15,4 +15,4 @@ Este é o meu portfólio pessoal, onde compartilho minha trajetória como Desenv
 + Botões de Ação: Botões para baixar meu currículo ou entrar em contato diretamente.
 
 ### Como Visualizar:
-Acesse o meu portfólio clicando no link: https://egnaldo-viana.github.io/portifolio/ Ou clone este repositório e abra o arquivo index.html em qualquer navegador de sua preferência.
+Acesse o meu portfólio clicando no link: https://egnaldo-viana.github.io/portfolio/ Ou clone este repositório e abra o arquivo index.html em qualquer navegador de sua preferência.
